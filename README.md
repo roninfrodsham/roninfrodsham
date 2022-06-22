@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonny Frodsham, Technical Lead and JavaScript Engineer.
-- 👀 I’m interested in JavaScript, React, Remix.run and sometimes Node.
+- 👀 I’m interested in JavaScript, React, Remix.run and Node.
 - 🌱 I’m currently working in Remix.run and having some fun with Web3 and Solidity.
 - Most of my work is under NDA so this new repo is a public containing experiments for fun and proof of concepts.
 

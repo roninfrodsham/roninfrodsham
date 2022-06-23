@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonny Frodsham, Technical Lead and JavaScript Engineer with over 20 years of experience.
+- 👋 Hi, I’m Jonny Frodsham, JavaScript Engineer with over 20 years of experience.
 - 👀 I’m interested in JavaScript, React, Remix.run and Node.
 - 🌱 I’m currently working in Remix.run and having some fun with Web3 and Solidity.
 - Most of my work is under NDA so this new repo is public containing code experiments for fun and proof of concepts.
